@@ -656,5 +656,37 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "s5qnpsdk-3437-8t0y-9za2-aai38m080n1d",
+    image: "images/products/backpack.jpg",
+    name: "Amazon Basics Backpack",
+    rating: {
+      stars: 3,
+      count: 1478
+    },
+    priceCents: 11036,
+    keywords: [
+      "backpack",
+      "black",
+      "zipped",
+      "unisex"
+    ]
+  },
+  {
+    id: "otwu0qopd1-1580-5s4j-rkbg-h43ifcwb0i8f",
+    image: "images/products/umbrella.jpg",
+    name: "Green Automatic Umberella",
+    rating: {
+      stars: 4,
+      count: 3874
+    },
+    priceCents: 5104,
+    keywords: [
+      "umberella",
+      "green",
+      "automatic",
+      "unisex"
+    ]
   }
 ];
