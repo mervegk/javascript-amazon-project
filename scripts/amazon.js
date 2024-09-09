@@ -1,3 +1,5 @@
+import { cart } from "../data/cart.js";
+
 let productsHTML = '';
 
 products.forEach((product) => {
@@ -107,5 +109,4 @@ document.querySelectorAll('.js-add-to-cart').forEach((button) => {
     }, 2000);
     addedMessageTimeouts[productId] = timeoutId;
   })
-})
-
+});
